@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Salut ! Je suis Mame Sandeck NIANG.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;A Propos de Moi </h3>
+<h2> Hello ! I'm Sandeck NIANG.</h2>
+
+<h3> 👨🏻‍💻 &nbsp;About me </h3>
 
 - 🤔 &nbsp; Je suis dynamique, motivé par mon domaine,rigoureux. Je m'intègre parfaitement dans une équipe, ayant un sens de l'écoute.
 - 🎓 &nbsp; Élève ingénieur en génie informatique à l'Institut Polytechnique des Sciences Avancées de Sfax.
