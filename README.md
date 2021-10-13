@@ -48,7 +48,7 @@
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
-  ![.Net Core 5](https://img.shields.io/badge/-.Net Core 5-333333?style=flat&logo=.net)
+  ![Net Core 5](https://img.shields.io/badge/-.Net Core 5-333333?style=flat&logo=.net)
 
 <br/>
 
