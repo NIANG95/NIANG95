@@ -35,7 +35,7 @@
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernates-333333?style=flat&logo=kubernetes)
-  ![JUnit](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=junit)
+  ![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit)
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
