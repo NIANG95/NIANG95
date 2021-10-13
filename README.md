@@ -4,10 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About me </h3>
 
-- 🤔 &nbsp; Je suis dynamique, motivé par mon domaine,rigoureux. Je m'intègre parfaitement dans une équipe, ayant un sens de l'écoute.
-- 🎓 &nbsp; Élève ingénieur en génie informatique à l'Institut Polytechnique des Sciences Avancées de Sfax.
-- 🌱 &nbsp; Apprendre plus sur le Développement Web et le Big Data.
-- ✍️ &nbsp; Toujours prêt à relever de nouveaux défis à explorer les nouvelles technologies.
+- 🤔 &nbsp; I am dynamic, motivated by my field, rigorous. I integrate perfectly in a team, having a sense of listening.
+- 🎓 &nbsp; Student engineer in computer engineering at the Polytechnic Institute of Advanced Sciences of Sfax.
+- 🌱 &nbsp; Learn more about Web Development and Big Data.
+- ✍️ &nbsp; Always ready to take on new challenges to explore new technologies.
 
 <h3> 🛠 &nbsp;Techologies</h3>
 
