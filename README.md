@@ -63,7 +63,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mamesandeckniang/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mame%20Sandeck%20NIANG-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/sandeck.niang/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Mame Sandeck Niang-blue?style=flat-square&logo=facebook"></a>
+<a href="https://www.facebook.com/sandeck.niang/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Mame%20Sandeck%20NIANG-blue?style=flat-square&logo=facebook"></a>
 <a href="mailto:niangmamesandeck@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-niangmamesandeck@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
