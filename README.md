@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; I am dynamic, motivated by my field, rigorous. I integrate perfectly in a team, having a sense of listening.
 - 🎓 &nbsp; Student engineer in computer engineering at the Polytechnic Institute of Advanced Sciences of Sfax.
-- 🌱 &nbsp; Learn more about Web Development and Big Data.
+- 🌱 &nbsp; Learn more about Web Development.
 - ✍️ &nbsp; Always ready to take on new challenges to explore new technologies.
 
 <h3> 🛠 &nbsp;Techologies</h3>
