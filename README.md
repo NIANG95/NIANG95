@@ -1,6 +1,6 @@
 
 
-<h2> Hello ! I'm Sandeck NIANG.</h2>
+<h2> Hello ! I'm Mame Sandeck NIANG.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About me </h3>
 
