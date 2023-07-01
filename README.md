@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About me </h3>
 
-- 🤔 &nbsp; Passionate about new technologies, I have a solid grounding in programming and problem-solving. I'm motivated, creative and able to work independently or as part of a team.
+- 🤔 &nbsp; Passionate about software development, I have a solid grounding in programming and problem-solving. I'm motivated, creative and able to work independently or as part of a team.
 - 🎓 &nbsp; Software Engineer | cloud & Devops enthusiast | Certified AWS Cloud Practioner.
 - 🌱 &nbsp; Learn more about Web Development.
 - ✍️ &nbsp; Always ready to take on new challenges to explore new technologies.
