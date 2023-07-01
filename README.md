@@ -4,8 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About me </h3>
 
-- 🤔 &nbsp; I am dynamic, motivated by my field, rigorous. I integrate perfectly in a team, having a sense of listening.
-- 🎓 &nbsp; Student engineer in computer engineering at the Polytechnic Institute of Advanced Sciences of Sfax.
+- 🤔 &nbsp; Passionate about new technologies, I have a solid grounding in programming and problem-solving. I'm motivated, creative and able to work independently or as part of a team.
+- 🎓 &nbsp; Software Engineer | cloud & Devops enthusiast | Certified AWS Cloud Practioner.
 - 🌱 &nbsp; Learn more about Web Development.
 - ✍️ &nbsp; Always ready to take on new challenges to explore new technologies.
 
